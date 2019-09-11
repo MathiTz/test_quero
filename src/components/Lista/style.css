@@ -1,0 +1,18 @@
+.bolsas-add {
+  text-align: center;
+  line-height: 20px;
+  border: 1px solid white;
+  box-shadow: 10px 10px 20px 0px rgba(0, 0, 0, 0.2);
+}
+
+.bolsas-add button {
+  border: 0;
+  cursor: pointer;
+}
+
+.bolsas-add i {
+  font-size: 3em;
+  color: white;
+  background-color: #18acc4;
+  border-radius: 50%;
+}

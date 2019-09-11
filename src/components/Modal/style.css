@@ -1,0 +1,26 @@
+.display-block {
+  display: flex;
+}
+
+.display-none {
+  display: none;
+}
+
+.closeIcon {
+  border: 0;
+  position: absolute;
+  right: 0;
+  height: 40px;
+  cursor: pointer;
+  font-size: 2em;
+  background-color: transparent;
+  color: white;
+}
+
+.grayBg {
+  background-color: gray;
+}
+
+.whiteBg {
+  background-color: white;
+}
