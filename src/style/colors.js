@@ -1,9 +1,0 @@
-export const mainBlue = "#18acc4";
-export const secondaryBlue = "#007a8d";
-export const mainYellow = "#fdcb13";
-export const secondaryYellow = "#de9e1f";
-export const mainGreen = "#0fa866";
-export const mainBlackText = "#1f2d30";
-export const mainGrayBg = "#fbfbfb";
-export const overlayBlackModal = "rgba(31, 45, 48, 0.8)";
-export const mainGrayBorder = "#e3e1e1";
